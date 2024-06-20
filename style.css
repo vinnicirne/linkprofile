@@ -33,10 +33,12 @@ body * {
   color: var(--text-color);
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: auto;
   margin: 56px auto 0px;
   padding: 0 24px;
+  height: 100vh;
 }
 /* Profile*/
 #profile {
@@ -148,6 +150,14 @@ footer{
   text-align: center;
   padding: 24px 0;
   font-size: 14px;
+}
 
-
+/*Media queries */
+@media(min-width: 700px){
+  :root{
+    --bg-url: url(./assets/bg-desktop.jpg)
+  }
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg)
+  }
 }
