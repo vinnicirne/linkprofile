@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Vinni Cirne && by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ por Vinni Cirne && Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
